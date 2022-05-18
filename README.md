@@ -1,3 +1,4 @@
-# João Vitor da Silva Matos
+# Repositório público de João V. Matos
 
-Esse é o meu repositório público.
+## Quem sou eu?
+Olá, meu nome é João Matos, e esse é o meu repositório público.
